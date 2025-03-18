@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhagyashreemohalkar&label=Profile%20views&color=0e75b6&style=flat" alt="bhagyashreemohalkar" /> </p>
 
-- 🌱 I’m currently learning **Android App Development📱, Artificial Intelligence🤖, Machine Learning✨**
+- 🌱 I’m currently learning **App Development📱, Artificial Intelligence🤖, Machine Learning✨**
 
 - 📫 How to reach me **mohalkarbhagyashri961@gmail.com**
 
