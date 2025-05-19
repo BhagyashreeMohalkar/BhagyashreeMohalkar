@@ -1,7 +1,7 @@
 ![Image](https://github.com/user-attachments/assets/61eefa96-95ed-4f7c-970f-b474cd01c84a)
 <h1 align="center">👋 Hello, I'm Bhagyashree Mohalkar!</h1>
 
-<h3 align="center">🚀 Aspiring ML Engineer | Research Enthusiast 🔍 | Space Explorer 🌍 | Lifelong Learner 🌱</h3>
+<h3 align="center">🚀 Aspiring AI/ML Engineer | Research Enthusiast 🔍 | Space Explorer 🌍 | Lifelong Learner 🌱</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=BhagyashreeMohalkar&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
