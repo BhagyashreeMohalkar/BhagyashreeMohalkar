@@ -11,7 +11,7 @@
 
 ### 🌟 About Me
 
-- 🌱 Currently exploring **App Development** 📱, **Artificial Intelligence** 🤖, and **Machine Learning** ✨.
+- 🌱 Currently exploring **Data Science** 👩‍💻, **Artificial Intelligence** 🤖, and **Machine Learning** ✨.
 - 📫 You can reach me at: **[mohalkarbhagyashri961@gmail.com](mailto:mohalkarbhagyashri961@gmail.com)**
 
 ---
