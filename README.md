@@ -51,7 +51,6 @@
 <p align="center">
   <img src="https://git-hub-streak-stats.vercel.app?user=BhagyashreeMohalkar&theme=tokyonight"  alt="Streak Stats" />
 </p>
-![Snake animation](https://github.com/BhagyashreeMohalkar/BhagyashreeMohalkar/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
