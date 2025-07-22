@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/61eefa96-95ed-4f7c-970f-b474cd01c84a)
+
 <h1 align="center">👋 Hello, I'm Bhagyashree Mohalkar!</h1>
 
 <h3 align="center">🚀 Aspiring AI/ML Engineer | Research Enthusiast 🔍 | Space Explorer 🌍 | Lifelong Learner 🌱</h3>
@@ -19,10 +19,12 @@
 ### 🤝 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bhagyashree-mohalkar/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="60" width="60" />
+  <a href="https://www.linkedin.com/in/bhagyashree-mohalkar-1b6861287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-</p>
+  <a href="https://github.com/BhagyashreeMohalkar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+  
 
 ---
 
