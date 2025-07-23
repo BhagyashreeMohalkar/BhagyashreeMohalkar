@@ -30,9 +30,7 @@
 ### 🌟 About Me
 
 - 🌱 Currently exploring **Data Science** 👩‍💻, **Artificial Intelligence** 🤖, and **Machine Learning** ✨.
-- 📫 You can reach me at: <a href="mailto:mohalkarbhagyashri961@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>  
+- 📫 You can reach me at: **[mohalkarbhagyashri961@gmail.com](mailto:mohalkarbhagyashri961@gmail.com)**
 
 
 ---
