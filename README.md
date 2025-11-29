@@ -1,4 +1,3 @@
-
 <h1 align="center">👋 Hello, I'm Bhagyashree Mohalkar!</h1>
 
 <h3 align="center">🚀 Aspiring AI/ML Engineer | Research Enthusiast 🔍 | Space Explorer 🌍 | Lifelong Learner 🌱</h3>
@@ -12,6 +11,9 @@
 ### 🤝 Let's Connect!
 
 <p align="center">
+  <a href="https://bhagyashree-portfolio-tan.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://www.linkedin.com/in/bhagyashree-mohalkar-1b6861287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -23,17 +25,15 @@
   </a>
 </p>
 
-
 ---
-
 
 ### 🌟 About Me
 
 - 🌱 Currently exploring **Data Science** 👩‍💻, **Artificial Intelligence** 🤖, and **Machine Learning** ✨.
 - 📫 You can reach me at: **[mohalkarbhagyashri961@gmail.com](mailto:mohalkarbhagyashri961@gmail.com)**
 
-
 ---
+
 ### 💡 My Expertise
 
 | Category           | Skills & Technologies                                                                                                 |
