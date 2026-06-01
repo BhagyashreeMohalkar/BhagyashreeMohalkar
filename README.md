@@ -8,7 +8,7 @@
 
 <p align="center">
   <a>
-    <img src="https://komarev.com/ghpvc/?username=BhagyashreeMohalkar&label=Profile%20views&color=red&style=for-the-badge" alt="Visitors" />
+    <img src="https://komarev.com/ghpvc/?username=BhagyashreeMohalkar&label=Profile%20views&color=blue&style=for-the-badge" alt="Visitors" />
   </a>
   <a href="https://bhagyashree-portfolio-tan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
