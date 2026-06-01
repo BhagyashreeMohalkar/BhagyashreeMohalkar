@@ -2,21 +2,14 @@
   <img src="./images/Bhagyashree_AIML.svg" alt="Bhagyashree Mohalkar - AI/ML Engineer" width="860"/>
 </p>
 
-<h3 align="center">🚀 Aspiring AI/ML Engineer | Research Enthusiast 🔍 | Space Explorer 🌍 | Lifelong Learner 🌱</h3>
-
-<p align="center">
-  <img src="https://stats.pphat.top/badge/visitors?username=BhagyashreeMohalkar&theme=tokyonight" alt="Visitors" />
-  <img src="https://stats.pphat.top/badge/total-stars?username=BhagyashreeMohalkar&theme=tokyonight" alt="Total Stars" />
-  <img src="https://stats.pphat.top/badge/repositories?username=BhagyashreeMohalkar&theme=tokyonight" alt="Repositories" />
-  <img src="https://stats.pphat.top/badge/followers?username=BhagyashreeMohalkar&theme=tokyonight" alt="Followers" />
-  <img src="https://stats.pphat.top/badge/total-commits?username=BhagyashreeMohalkar&theme=tokyonight" alt="Total Commits" />
-</p>
-
 ---
 
 ### 🤝 Let's Connect!
 
 <p align="center">
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=BhagyashreeMohalkar&label=Profile%20views&color=red&style=for-the-badge" alt="Visitors" />
+  </a>
   <a href="https://bhagyashree-portfolio-tan.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
