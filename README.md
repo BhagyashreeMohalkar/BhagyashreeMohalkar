@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hello, I'm Bhagyashree Mohalkar!</h1>
+<p align="center">
+  <img src="./images/Bhagyashree_AIML.svg" alt="Bhagyashree Mohalkar - AI/ML Engineer" width="860"/>
+</p>
 
 <h3 align="center">🚀 Aspiring AI/ML Engineer | Research Enthusiast 🔍 | Space Explorer 🌍 | Lifelong Learner 🌱</h3>
 
