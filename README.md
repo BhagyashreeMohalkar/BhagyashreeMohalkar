@@ -33,6 +33,14 @@
 
 ---
 
+### 📄 My Resume
+
+<p align="center">
+  <a href="./assets/Inter_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+  </a>
+</p>
+
 ### 💡 My Expertise
 
 | Category           | Skills & Technologies                                                                                                 |
