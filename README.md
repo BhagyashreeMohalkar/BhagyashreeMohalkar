@@ -22,6 +22,9 @@
   <a href="https://www.codechef.com/users/bhagyashreem17" target="_blank">
     <img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="Codechef">
   </a>
+  <a href="./assets/Inter_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
+  </a>
 </p>
 
 ---
@@ -32,14 +35,6 @@
 - 📫 You can reach me at: **[mohalkarbhagyashri961@gmail.com](mailto:mohalkarbhagyashri961@gmail.com)**
 
 ---
-
-### 📄 My Resume
-
-<p align="center">
-  <a href="./assets/Inter_Resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Resume-FF6F00?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume">
-  </a>
-</p>
 
 ### 💡 My Expertise
 
